@@ -12,7 +12,10 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+<img width="317" height="217" alt="image" src="https://github.com/user-attachments/assets/3c645ce0-ab5c-477f-a4fd-ef08e4d0f3f2" />
 
 ## Output
+<img width="404" height="176" alt="image" src="https://github.com/user-attachments/assets/eef4b398-102b-486b-be81-ce405c2f42fe" />
 
 ## Result
+Thus the python program to check whether the given number is "even" or "odd" using "if...else" statements is obtained.
